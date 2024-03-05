@@ -1,7 +1,7 @@
 import application.database.people
 from application.salary import calculate_salary
 from datetime import datetime
-from application.prettytable import my_study
+from application.prettytable import my_study   # п.4
 
 current_date = datetime.now()
 
